@@ -1,0 +1,7 @@
+pygambit~=16.0.1
+numpy~=1.22.1
+nashpy~=0.0.28
+matplotlib~=
+scipy~=1.7.3
+mpmath~=1.2.1
+sympy~=1.9
